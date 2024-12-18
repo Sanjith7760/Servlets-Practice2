@@ -1,0 +1,2 @@
+- 🔄 **sendRedirect**: Implemented to redirect client requests to a different URL, enhancing user navigation.  
+- 🌍 **HTTP Redirection**: Gained insights into managing user flow and improving web application responsiveness.
